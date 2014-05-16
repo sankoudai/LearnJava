@@ -1,0 +1,2 @@
+How to create a Java File object?/File f = new File(fileName);
+How to create a Java Input stream for ASCII?/FileInputStream fs = new FileInputStream(fileName)
